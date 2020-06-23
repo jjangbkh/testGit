@@ -6,6 +6,7 @@ public class Test01 {
 		
 		System.out.println("처음");
 		
+		System.out.println("수정");
 	}
 	
 }
